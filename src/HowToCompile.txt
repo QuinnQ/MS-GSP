@@ -1,0 +1,6 @@
+Read Me:
+How to Compile and Run:
+1. Please put the inputFile folder in MS_GSP_Alg package(Default).
+2. Compile: javac MS_GSP_Alg/*.java
+3. Run: java MS_GSP_Alg.MS_GSP_Main
+4. Result is showing in console.
